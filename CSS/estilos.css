@@ -1,0 +1,90 @@
+body {
+	background-image: url(https://img.freepik.com/vector-gratis/paisaje-montana-degradado_23-2149161561.jpg?size=626&ext=jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+
+h1 {
+	font-family: Arial;
+	color: #004E89;
+	position: relative;
+	top: 10px;
+	left: 250px;
+}
+
+
+p {
+	font-family: Arial;
+	margin: 5px 10px;
+
+}
+
+.btn {
+	background:#FF6B35;
+	color: #fff;
+	font-size: 16px;
+	text-decoration: none;
+	padding: 15px 20px;
+	display: inline-block;
+	margin: 5px 10px;
+	border-radius: 60px;
+
+}
+
+img {
+	position: relative;
+	top: 10px;
+	left: 100px;
+	width: 600px;
+}
+
+.btn:hover {
+	opacity: .8;
+}
+.o2 {
+	float: right;
+}
+
+.caja_principal {
+	width: 800px;
+	background: #EFEFD0;
+	background-size: cover;
+	opacity: .8;
+	position: relative;
+	top: 10px;
+	left: 250px;
+}
+
+.volver {
+	float: left;
+}
+
+h2 {
+	font-family: Arial;
+	color: #004E89;
+	position: relative;
+	top:auto ;
+	left: 350px;
+}
+
+.moraleja {
+	font-family: Arial;
+	font-size: 25px;
+	color: #004E89;
+	position: relative;
+	top:auto ;
+	left: 200px;
+}
+
+.jugar {
+	float: right;
+}
+
+.finalimg {
+	position: relative;
+	top: 10px;
+	left: 300px;
+	width: 200px;
+}
